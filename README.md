@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Andika 👋
 
 Welcome to my GitHub profile! I'm a beginner in Fullstack Development, with a particular interest in Front-End design and a background in Digital Marketing. I'm passionate about building user-friendly applications, improving user experiences, and understanding the power of marketing in the digital world.
 
